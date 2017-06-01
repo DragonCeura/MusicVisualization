@@ -3,7 +3,7 @@ An experiment with visualizing music
 
 # Target features
 * Music parsing
-* Music interpretation and playback (inspired by [smalin's work on youtube](www.youtube.com/user/smalin))
+* Music interpretation and playback (inspired by [smalin's work on youtube](https://www.youtube.com/user/smalin))
 * Mapping of notes to an analog of HSV
     * Hue -> Note
     * Saturation -> Volume(?)
