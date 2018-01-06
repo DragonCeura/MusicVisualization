@@ -18,3 +18,4 @@ data/*
 .idea/*
 src/musicVisualizingV1/*
 
+.idea/misc.xml
